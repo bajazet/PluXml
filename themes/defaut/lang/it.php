@@ -26,7 +26,7 @@ $LANG = array(
 'TOP'					=> 'Inizio',
 
 # erreur.php
-'ERROR'					=> 'E&egrave; stato rilevato un errore',
+'ERROR'					=> '&Egrave; stato rilevato un errore',
 'BACKTO_HOME'			=> 'Ritorna alla pagina principale',
 
 # common
